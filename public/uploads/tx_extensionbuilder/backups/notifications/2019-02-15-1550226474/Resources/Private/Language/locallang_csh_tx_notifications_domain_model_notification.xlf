@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-02-15T03:24:53Z" product-name="notifications">
+		<header/>
+		<body>
+			<trans-unit id="id.description">
+				<source>id</source>
+			</trans-unit>
+			<trans-unit id="date.description">
+				<source>date</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="newsletter.description">
+				<source>newsletter</source>
+			</trans-unit>
+			<trans-unit id="offer.description">
+				<source>offer</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

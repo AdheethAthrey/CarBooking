@@ -1,0 +1,29 @@
+{
+    "name": "hofuniversity/sitemanagement",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [
+        {
+            "name": "Deepak Balaram",
+            "role": "Developer"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "HofUniversity\\Sitemanagement\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "HofUniversity\\Sitemanagement\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "sitemanagement": "self.version",
+        "typo3-ter/sitemanagement": "self.version"
+    }
+}

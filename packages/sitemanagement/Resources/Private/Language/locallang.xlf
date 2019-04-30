@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-02-14T07:48:10Z" product-name="sitemanagement">
+		<header/>
+		<body>
+			<trans-unit id="tx_sitemanagement_domain_model_car">
+				<source>Car</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.id">
+				<source>Id</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.model">
+				<source>Model</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.color">
+				<source>Color</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.transmission">
+				<source>Transmission</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.fuel_type">
+				<source>Fuel Type</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.seating">
+				<source>Seating</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.availability">
+				<source>Availability</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_car.booking">
+				<source>Booking</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_booking">
+				<source>Booking</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_booking.booking_id">
+				<source>Booking Id</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_booking.pick_up_date">
+				<source>Pick Up Date</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_booking.pick_up_location">
+				<source>Pick Up Location</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_booking.drop_off_date">
+				<source>Drop Off Date</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemanagement_domain_model_booking.drop_off_location">
+				<source>Drop Off Location</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,18 @@
+{
+  "name": "hof-university-blitz-auto",
+  "description": "Car rental app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7deepakb/blitz-auto"
+  },
+  "homepage": "https://blitz-auto.de",
+  "author": "CDNV",
+  "version": "1.0.0",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-contrib-imagemin": "^2.0.1"
+  }
+}

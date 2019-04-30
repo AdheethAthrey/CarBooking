@@ -1,0 +1,30 @@
+
+plugin.tx_sitemanagement_carinventory {
+    view {
+        # cat=plugin.tx_sitemanagement_carinventory/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:sitemanagement/Resources/Private/Templates/
+        # cat=plugin.tx_sitemanagement_carinventory/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:sitemanagement/Resources/Private/Partials/
+        # cat=plugin.tx_sitemanagement_carinventory/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:sitemanagement/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_sitemanagement_carinventory//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}
+
+plugin.tx_sitemanagement_bookings {
+    view {
+        # cat=plugin.tx_sitemanagement_bookings/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:sitemanagement/Resources/Private/Templates/
+        # cat=plugin.tx_sitemanagement_bookings/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:sitemanagement/Resources/Private/Partials/
+        # cat=plugin.tx_sitemanagement_bookings/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:sitemanagement/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_sitemanagement_bookings//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}

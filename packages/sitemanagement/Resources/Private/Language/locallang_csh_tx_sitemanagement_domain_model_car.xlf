@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-02-14T07:48:10Z" product-name="sitemanagement">
+		<header/>
+		<body>
+			<trans-unit id="id.description">
+				<source>id</source>
+			</trans-unit>
+			<trans-unit id="model.description">
+				<source>model</source>
+			</trans-unit>
+			<trans-unit id="color.description">
+				<source>color</source>
+			</trans-unit>
+			<trans-unit id="transmission.description">
+				<source>transmission</source>
+			</trans-unit>
+			<trans-unit id="fuel_type.description">
+				<source>fuelType</source>
+			</trans-unit>
+			<trans-unit id="seating.description">
+				<source>seating</source>
+			</trans-unit>
+			<trans-unit id="availability.description">
+				<source>availability</source>
+			</trans-unit>
+			<trans-unit id="booking.description">
+				<source>booking</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

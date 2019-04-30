@@ -1,0 +1,29 @@
+{
+    "name": "hofuniversity/notifications",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [
+        {
+            "name": "Deepak Balaram",
+            "role": "Developer"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "HofUniversity\\Notifications\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "HofUniversity\\Notifications\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "notifications": "self.version",
+        "typo3-ter/notifications": "self.version"
+    }
+}

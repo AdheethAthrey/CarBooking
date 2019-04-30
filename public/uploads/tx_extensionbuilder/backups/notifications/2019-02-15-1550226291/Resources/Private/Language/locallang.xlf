@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-02-15T03:12:37Z" product-name="notifications">
+		<header/>
+		<body>
+			<trans-unit id="tx_notifications_domain_model_offer">
+				<source>Offer</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_offer.id">
+				<source>Id</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_offer.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_newsletter">
+				<source>Newsletter</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_newsletter.id">
+				<source>Id</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_newsletter.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_notification">
+				<source>Notification</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_notification.id">
+				<source>Id</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_notification.date">
+				<source>Date</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_notification.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_notification.newsletter">
+				<source>Newsletter</source>
+			</trans-unit>
+			<trans-unit id="tx_notifications_domain_model_notification.offer">
+				<source>Offer</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

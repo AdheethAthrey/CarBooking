@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-02-14T07:48:10Z" product-name="sitemanagement">
+		<header/>
+		<body>
+			<trans-unit id="booking_id.description">
+				<source>bookingId</source>
+			</trans-unit>
+			<trans-unit id="pick_up_date.description">
+				<source>pickUpDate</source>
+			</trans-unit>
+			<trans-unit id="pick_up_location.description">
+				<source>pickUpLocation</source>
+			</trans-unit>
+			<trans-unit id="drop_off_date.description">
+				<source>dropOffDate</source>
+			</trans-unit>
+			<trans-unit id="drop_off_location.description">
+				<source>dropOffLocation</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
